@@ -1,8 +1,4 @@
-# import os 
-# os.getcwd()
 
-# os.chdir("/users/window/desktop")
-# os.getcwd()
 
 
 # os.listdir(os.getcwd())
